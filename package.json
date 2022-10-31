@@ -1,8 +1,8 @@
 {
   "name": "prettier-config-jaz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prettier config",
-  "main": ".prettierrc",
+  "main": "index.json",
   "author": {
     "name": "jaz-w",
     "url": "https://github.com/jaz-w"
