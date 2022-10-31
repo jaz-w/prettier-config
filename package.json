@@ -1,0 +1,24 @@
+{
+  "name": "prettier-config-jaz",
+  "version": "0.0.1",
+  "description": "Prettier config",
+  "main": ".prettierrc",
+  "author": {
+    "name": "jaz-w",
+    "url": "https://github.com/jaz-w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaz-w/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "prettier-config-jaz"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaz-w/prettier-config/issues"
+  },
+  "homepage": "https://github.com/jaz-w/prettier-config"
+}
