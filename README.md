@@ -5,7 +5,7 @@
 ### Install
 
 ```
-pnpm add -D prettier prettier-config-jaz
+pnpm add -D prettier-config-jaz
 ```
 
 ### Edit `package.json`
