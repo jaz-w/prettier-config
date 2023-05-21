@@ -2,30 +2,33 @@
   "name": "prettier-config-jaz",
   "version": "0.0.3",
   "description": "Prettier config",
-  "main": "index.json",
+  "private": false,
+  "homepage": "https://github.com/jaz-w/prettier-config",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "npm run test",
+    "test": "tape __tests__/*.js"
+  },
   "author": {
     "name": "jaz-w",
     "url": "https://github.com/jaz-w"
   },
-  "files": [
-    "index.json",
-    "package.json"
-  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jaz-w/prettier-config.git"
   },
-  "keywords": [
-    "prettier",
-    "prettier-config",
-    "prettier-config-jaz"
-  ],
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "bugs": {
     "url": "https://github.com/jaz-w/prettier-config/issues"
   },
-  "homepage": "https://github.com/jaz-w/prettier-config"
+  "keywords": [
+    "prettier",
+    "prettierrc"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.1.0"
+  },
+  "devDependencies": {
+    "tape": "^5.6.3"
+  }
 }
