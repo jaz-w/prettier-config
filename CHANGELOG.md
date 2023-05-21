@@ -4,11 +4,11 @@
 
 #### Bug Fixes
 
-- add **Github Actions**
+- add Github Actions ([c649329](https://github.com/jaz-w/prettier-config/commit/c649329edabea4b23bdb90b0f017e73c50c49b94))
 
-- update `package.json` config
+- update `package.json` config ([c649329](https://github.com/jaz-w/prettier-config/commit/c649329edabea4b23bdb90b0f017e73c50c49b94))
 
-- transform `index.json` to `.prettierrc.json`
+- transform `index.json` to `.prettierrc.json` ([c649329](https://github.com/jaz-w/prettier-config/commit/c649329edabea4b23bdb90b0f017e73c50c49b94))
 
 ### 0.0.3 (2022-11-29)
 
