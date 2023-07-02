@@ -6,7 +6,7 @@
   "homepage": "https://github.com/jaz-w/prettier-config",
   "main": "index.js",
   "scripts": {
-    "test": "tape __tests__/*.js",
+    "test": "tape __test__/*.js",
     "prepublishOnly": "npm run test",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
   },
