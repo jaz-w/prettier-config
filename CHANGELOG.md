@@ -1,3 +1,7 @@
+# [0.1.0](https://github.com/jaz-w/prettier-config/compare/v0.0.6...v0.1.0) (2023-07-02)
+
+* update github action
+
 ## [0.0.5](https://github.com/jaz-w/prettier-config/compare/v0.0.4...v0.0.5) (2023-07-02)
 
 ### Bug Fixes
