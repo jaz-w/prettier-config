@@ -1,18 +1,11 @@
-## [0.0.6](https://github.com/jaz-w/prettier-config/compare/v0.0.5...v0.0.6) (2023-07-02)
-
-
-
 ## [0.0.5](https://github.com/jaz-w/prettier-config/compare/v0.0.4...v0.0.5) (2023-07-02)
-
 
 ### Bug Fixes
 
-* update npm script field ([94b6978](https://github.com/jaz-w/prettier-config/commit/94b697855c9e712c314ab4dfa1bd3c373391ce67))
-* update package.json ([969566e](https://github.com/jaz-w/prettier-config/commit/969566e5e3d5cf6b2eeb610e068a3d3c5ec3a30a))
-* update package.json script filed ([6456f96](https://github.com/jaz-w/prettier-config/commit/6456f96456c749c1008319e2124a0e8821e4a613))
-* update prettier config ([8fe784d](https://github.com/jaz-w/prettier-config/commit/8fe784d58877c66597d48c3d78393ac1711225c6))
-
-
+- update npm script field ([94b6978](https://github.com/jaz-w/prettier-config/commit/94b697855c9e712c314ab4dfa1bd3c373391ce67))
+- update package.json ([969566e](https://github.com/jaz-w/prettier-config/commit/969566e5e3d5cf6b2eeb610e068a3d3c5ec3a30a))
+- update package.json script filed ([6456f96](https://github.com/jaz-w/prettier-config/commit/6456f96456c749c1008319e2124a0e8821e4a613))
+- update prettier config ([8fe784d](https://github.com/jaz-w/prettier-config/commit/8fe784d58877c66597d48c3d78393ac1711225c6))
 
 ## [0.0.4](https://github.com/jaz-w/prettier-config/compare/v0.0.3...v0.0.4) (2023-05-21)
 
