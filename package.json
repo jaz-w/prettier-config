@@ -6,8 +6,9 @@
   "homepage": "https://github.com/jaz-w/prettier-config",
   "main": "index.js",
   "scripts": {
+    "test": "tape __tests__/*.js",
     "prepublishOnly": "npm run test",
-    "test": "tape __tests__/*.js"
+    "changlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "author": {
     "name": "jaz-w",
@@ -16,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaz-w/prettier-config.git"
+    "url": "https://github.com/jaz-w/prettier-config.git"
   },
   "bugs": {
     "url": "https://github.com/jaz-w/prettier-config/issues"
@@ -29,6 +30,7 @@
     "prettier": "^2.1.0"
   },
   "devDependencies": {
+    "conventional-changelog-cli": "^3.0.0",
     "tape": "^5.6.3"
   }
 }
