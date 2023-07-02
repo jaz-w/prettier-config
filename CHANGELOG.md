@@ -1,3 +1,12 @@
+## [0.1.1](https://github.com/jaz-w/prettier-config/compare/v0.1.0...v0.1.1) (2023-07-02)
+
+
+### Bug Fixes
+
+* update test script ([eaff75d](https://github.com/jaz-w/prettier-config/commit/eaff75d676b89c6b570529dcabe5bb1a2f9139b7))
+
+
+
 # [0.1.0](https://github.com/jaz-w/prettier-config/compare/v0.0.6...v0.1.0) (2023-07-02)
 
 * update github action
