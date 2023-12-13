@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/jaz-w/prettier-config/compare/v0.1.1...v0.1.2) (2023-12-13)
+
+
+### Bug Fixes
+
+* updated dependencies ([508b275](https://github.com/jaz-w/prettier-config/commit/508b275d0be4c2ba044b9636ad848652cf8f43a3))
+
+
+
 ## [0.1.1](https://github.com/jaz-w/prettier-config/compare/v0.1.0...v0.1.1) (2023-07-02)
 
 
