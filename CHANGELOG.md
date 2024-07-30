@@ -1,3 +1,12 @@
+## [0.1.4](https://github.com/jaz-w/prettier-config/compare/v0.1.3...v0.1.4) (2024-07-30)
+
+
+### Bug Fixes
+
+* update docs ([21ae04b](https://github.com/jaz-w/prettier-config/commit/21ae04b1db2f4f1531a910fff492c2df95de269b))
+
+
+
 ## [0.1.3](https://github.com/jaz-w/prettier-config/compare/v0.1.2...v0.1.3) (2024-07-30)
 
 
